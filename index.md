@@ -1,19 +1,17 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
 
 ---
 
-### Category Name 1 
+[P&ID Instrument Tag Detection](https://github.com/mf4s/PID_instrument_tag)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The objective of this script is look over P&ID documents - used daily in Chemical Plants - and search for instruments, in order to extract
+their texts and create a list of tags for each file. This task is mechanic and automating it saves a considerable amount of time for Process Engineers, especially during projects.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PID_example.png?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/11hC500Jr29G0MOOxDQyGhu_KENSNeeKR?usp=sharing)
 
 ---
 
@@ -26,10 +24,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
