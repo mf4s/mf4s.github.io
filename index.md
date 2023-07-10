@@ -13,7 +13,7 @@ This is my MBA Thesis which I used YOLOv8 and Selenium to do:
 
 <img src="images/workflow_schema2_en_selenium.png?raw=true"/>
 
-<img src="images/schema_food_example.png?raw=true"/>
+<img src="images/schema_food_example.JPG?raw=true"/>
 
 <img src="images/schema_food_labels.png?raw=true"/>
 
