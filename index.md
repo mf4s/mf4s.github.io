@@ -1,4 +1,16 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in Data Science, Machine Learning, Computer Vision and NLP
+
+---
+
+[MBA Thesis - Food Detection using YOLOv8 and Nutritional info using Selenium](https://github.com/mf4s/PID_instrument_tag)
+
+
+The objective of this script is look over P&ID documents - used daily in Chemical Plants - and search for instruments, in order to extract
+their texts and create a list of tags for each file. This task is mechanic and automating it saves a considerable amount of time for Process Engineers, especially during projects.
+
+<img src="images/PID_example.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 ---
 
