@@ -3,7 +3,7 @@ logo: "/images/MFAS_profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My name is Marcelo Souza, I'm a Process Engineer shifting my career to the Data Science/Artificial Intelligence path. I have a Chemical Engineer diploma from University of Campinas (UNICAMP - Brazil), and I'm finishing an MBA in Artificial Intelligence and Big Data at University of São Paulo (USP - Brazil).
   <br><br> 
-  I've worked 10 years in the Chemical Industry, and my job always allowed me to keep close touch with Data. Some of the tasks I've done so far includes: Optimization of Distillation Columns by analyzing Temperaturate/Pressure data points - what saved 30% of steam -, and Alarm Management by analyzing alarm data from DCS and creating a dashboard aligned with ISA 18.2 KPIs - reducing alarms in some sites about 50-60%. My goal is use Machine Learning and Deep Learning techniques in order to automate/optimize tasks - not limited to Manufacturing or Chemical Industry.
+  I've worked 10 years in the Chemical Industry, and my job always allowed me to keep close touch with Data. Some of the tasks I've done so far includes: Optimization of Distillation Columns by analyzing Temperaturate/Pressure data points - which saved 30% of steam -, and Alarm Management by analyzing alarm data from DCS and creating a dashboard - reducing alarms by about 50-60%. My goal is use Machine Learning and Deep Learning techniques in order to automate/optimize tasks - not limited to Manufacturing or Chemical Industry.
   <br><br>
   <a href="https://www.linkedin.com/marcelofelippesouza/">View My LinkedIn Profile</a> 
 show_downloads: true  
